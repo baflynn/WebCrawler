@@ -14,4 +14,4 @@ SiteMap sitemap = crawler. CrawlWebSite(“SomeUrl”);
 Test the crawler against a real web-site.
 
 ### Unit Test
-Test behaviour using stubbed web-sites. Obviously Needs a lot more tests.
+Test behaviour using stubbed web-sites. Obviously needs a lot more tests.
