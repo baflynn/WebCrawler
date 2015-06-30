@@ -5,8 +5,12 @@ A simple C# web crawler
 ## Code Example
 
 To use
+
+```
 ICrawlWebSites crawler = new WebCrawlerService();
+
 SiteMap sitemap = crawler. CrawlWebSite(“SomeUrl”);
+```
 
 ## Tests
 
